@@ -1,6 +1,6 @@
 # Info
 
-Repository for solving problems in Python and testing the solutions with Test cases. 
+Repository for solving problems in Python and testing solutions with Test cases. 
 
 Compiler used: Python 3.7 (https://www.python.org/downloads/)
 
